@@ -22,7 +22,7 @@ It is not free. Briefing, the subagent's cold start, and verification all cost t
 | `agents/researcher` | Sonnet. Sourced web and document research. |
 | `agents/operator` | Sonnet. Drives screens and consoles; stops before irreversible actions. |
 | `skills/delegate` | The doctrine: what to delegate, the brief template, how to verify. |
-| `hooks/session-start.sh` | A short reminder at session start (about 100 words). |
+| `hooks/session-start.sh` | A short reminder at session start (about 70 words). |
 
 ## Install
 
