@@ -3,7 +3,7 @@
   "name": "brain-and-hands",
   "description": "Opus-as-brain delegation for Claude Code.",
   "owner": {
-    "name": "usama-365"
+    "name": "Prograsec"
   },
   "plugins": [
     {

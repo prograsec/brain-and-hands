@@ -3,10 +3,10 @@
   "description": "Opus as the brain, Sonnet and Haiku as the hands: delegation doctrine plus model-pinned subagents (scout, worker, researcher, operator) so a strong main session briefs cheaper models and verifies their work.",
   "version": "0.1.0",
   "author": {
-    "name": "usama-365"
+    "name": "Prograsec"
   },
-  "homepage": "https://github.com/usama-365/brain-and-hands",
-  "repository": "https://github.com/usama-365/brain-and-hands",
+  "homepage": "https://github.com/prograsec/brain-and-hands",
+  "repository": "https://github.com/prograsec/brain-and-hands",
   "license": "MIT",
   "keywords": ["subagents", "delegation", "cost", "tokens", "opus", "sonnet", "haiku", "computer-use"]
 }

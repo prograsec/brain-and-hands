@@ -1,6 +1,6 @@
-# brain-and-hands
+# brain-and-hands: Opus-as-brain subagent delegation for Claude Code
 
-A Claude Code plugin that makes a strong main session (Opus) the **brain** and cheaper models (Sonnet, Haiku) the **hands**.
+A Claude Code plugin that cuts cost and context bloat by making a strong main session (Opus) the **brain** and cheaper models (Sonnet, Haiku) the **hands**. Works as a token-saving multi-agent workflow for Claude Code: model-pinned subagents, a delegation skill, and safe stop points for computer use.
 
 The main session decides, writes a complete brief, and verifies. Subagents pinned to cheaper models do the high-volume, low-judgment work (screenshots, bulk reads, test runs, research) and report back as text.
 
@@ -27,7 +27,7 @@ It is not free. Briefing, the subagent's cold start, and verification all cost t
 ## Install
 
 ```
-/plugin marketplace add usama-365/brain-and-hands
+/plugin marketplace add prograsec/brain-and-hands
 /plugin install brain-and-hands@brain-and-hands
 ```
 
