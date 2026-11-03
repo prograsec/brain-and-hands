@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "brain-and-hands",
+  "description": "Opus-as-brain delegation for Claude Code.",
+  "owner": {
+    "name": "usama-365"
+  },
+  "plugins": [
+    {
+      "name": "brain-and-hands",
+      "source": "./",
+      "description": "Delegation doctrine plus model-pinned subagents: Opus decides and verifies, Sonnet and Haiku do the high-volume work.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["subagents", "delegation", "cost"]
+    }
+  ]
+}
